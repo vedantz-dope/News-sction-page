@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+.club-name-heading{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    
+}
+.heading-text{
+    font-size: 40px;
+    font-family: 'Abril Fatface', serif;
+}
+.news-section{
+    display: flex;
+    justify-content: center;
+    
+}
+.card-image{
+    height: 200px;
+}
+.news-info-brief-element{
+    font-size: larger;
+    font-weight: 600;
+}
+.news-heading-element{
+    font-size: 30px;
+}
+
+.vedant-health-img{
+    width: 200px;
+    height: 200px;
+}
